@@ -1,3 +1,4 @@
+#thus is a game 
 #print intro
 print ("Welcome to the Hogwarts!")
 print ("You will begin your journey by deciding your house.")
